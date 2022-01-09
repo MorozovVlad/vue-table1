@@ -1,19 +1,14 @@
 # table_vue
 
-## Project setup
+Создание нового элемента таблицы + сортировка по столбцам
+
+
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
